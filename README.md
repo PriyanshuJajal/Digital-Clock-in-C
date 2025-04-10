@@ -16,3 +16,5 @@ System Functions: Used for creating timed delays (sleep() or Sleep() depending o
 Handling system time in C.
 Implementing loops for real-time updates.
 Using terminal output formatting.
+
+Pull requests are welcome. If you want to make any change, open an issue first to discuss about the change.
